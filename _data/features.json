@@ -1,12 +1,12 @@
 [
   {
-    "title": "Feature 1",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "kubernetes",
+    "description": "Мы предлагаем нашим клиентам кластера на базе kubernetes.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Сертифициарованные специалисты",
+    "description": "Все сотрудники нашей организации являются специалистами в своей области.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {

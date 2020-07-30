@@ -1,9 +1,9 @@
 ---
-title: 'Sage Kirk'
+title: 'Kris Linuxovich'
 image: '/images/team/sage-kirk-485982-unsplash.jpg'
 jobtitle: 'Accountant'
-email: 'sage@test.com'
+email: 'k@lvmc.ru'
 linkedinurl: ''
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Главный переводчик на человеческий с АйТи-языка. 
